@@ -1,7 +1,7 @@
 # MobileDevelopment
 
-MainActivity.kt contains the work file
-SampleData contains data for the work
+MainActivity.kt contains the work file \
+SampleData contains data for the work \
 
 
 
